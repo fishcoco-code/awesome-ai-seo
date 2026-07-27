@@ -87,6 +87,7 @@
 * **[Surfer Academy](https://surferseo.com/academy/)** – Free courses on SEO and AI content.
 * **[AI SEO Playbook](https://contenthacker.com/ai-seo/)** – Practical guide to integrating AI in SEO.
 * **[HubSpot AI Content Guide](https://blog.hubspot.com/marketing/ai-content-marketing)** – Frameworks and examples.
+* **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 
 ## Communities
 
